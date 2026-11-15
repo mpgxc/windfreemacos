@@ -1,0 +1,4 @@
+node_modules/
+core/target/
+core/gen/schemas/
+.DS_Store
